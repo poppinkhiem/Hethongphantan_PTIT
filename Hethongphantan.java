@@ -10,8 +10,8 @@ import java.util.Date;
 
 /**
  *
- *  YOUTUBE.COM/POPPINKHIEM
- */
+ *  YOUTUBE.COM/POPPINKHIEM  TWITTER.COM/POPPINKHIEM  OK.RU/POPPINKHIEM VK.COM/POPPINKHIEM FOR PURCHASE
+ */ 
 public class HTPT {
     public static void main(String[] args) {
         long sss = 60*60*24*25567L;
