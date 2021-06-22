@@ -1,3 +1,9 @@
 # hethongphantan_PTIT
-Distributed Systems PTIT Hanoi
+For more:
+Youtube.com/PoppinKhiem
+Linkedin/in/poppingkhiem
+Slideshare.net/PoppinKhiem
+Tailieu.vn/PoppinKhiem
+Password( Nếu có): PoppinKhiem
+
 Like and Share
