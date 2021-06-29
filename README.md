@@ -1,5 +1,5 @@
 # hethongphantan_PTIT
-Giải thuật đồng bộ cập nhất vào 6/2021
+Giải thuật đồng bộ cập nhật vào 6/2021
 For more: shorturl.at/hyS26
 Youtube.com/PoppinKhiem
 Linkedin/in/poppingkhiem
