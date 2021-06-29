@@ -1,0 +1,22 @@
+Lời giải: 
+Cái nào lỗi thì full số.
+Còn các tiến trình còn lại thì sẽ bị nil ở tiến trình bị lỗi gửi
+
+- Câu hỏi 1: Thế lần 123 là thế nào?
+Kết quả lần 2. Mỗi cột là 3 tiến trình khác gửi đến
+
+Viết theo hàng dọc
+Cột thứ 1 là 2,3,4 gửi đến, 2 lỗi nên full nil, 3 và 4 là chung kết quả
+Cột thứ 2 thì 1,3,4 gửi
+
+- Câu hỏi 2: kết quả là như nào?
+Cột 3 1,2,4 gửi cứ như vậy thôi: 180 nil 382 483
+Dòng cuối thì so cột: Cái nào quá nil thì để unknow
+
+- Câu hỏi 3: So cả lần 1-2 sao? Hay chỉ lấy 3 cái lần 2 ra so thôi?
+
+Vâng so tất cả theo trí nhớ của tôi. Ai ghi đủ kiểm tra lại cho chắc. 
+Kiểu còn có điều kiện của bài này là 1/3 hoặc nhiều hơn tiến trình hỏng thì may ra làm được.
+
+Nhưng yên tâm thường thầy sẽ cho 1 tiến trình hỏng thôi, ít nhất 3 tiến trình chạy được thì kết quả sẽ không bao giờ bị 50/50.
+
